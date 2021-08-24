@@ -1,0 +1,15 @@
+diff --git a/node_modules/strapi-plugin-i18n/constants/iso-locales.json b/node_modules/strapi-plugin-i18n/constants/iso-locales.json
+index b2d19a8..0787d9c 100644
+--- a/node_modules/strapi-plugin-i18n/constants/iso-locales.json
++++ b/node_modules/strapi-plugin-i18n/constants/iso-locales.json
+@@ -955,6 +955,10 @@
+     "code":"it-CH",
+     "name":"Italian (Switzerland) (it-CH)"
+   },
++  {
++    "code":"iu-CA",
++    "name":"Inuktitut (iu-CA)"
++  },
+   {
+     "code":"ja",
+     "name":"Japanese (ja)"
